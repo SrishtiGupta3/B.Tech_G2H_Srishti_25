@@ -1,3 +1,4 @@
+// Equal Numbers or not
 #include<stdio.h>
 int main(){
     int a,b;
