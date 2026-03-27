@@ -8,6 +8,6 @@ int main(){
     sum=0.0;
     for(i=1;i<=N;i++){
     sum=sum+1.0/i;}
-printf("sum of series is :%f",sum);
+printf("sum of series is :%.2f",sum);
 return 0;
 }
