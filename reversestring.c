@@ -13,6 +13,5 @@ length = n-1;
     for(i=length;i>=0;i--){
       printf("%c",str[i]);
     } 
-   //  puts(str);
   return 0;
    }
